@@ -9,4 +9,5 @@ footer{
 }
 aside{
     background-color: lawngreen;
+    display: block;
 }
