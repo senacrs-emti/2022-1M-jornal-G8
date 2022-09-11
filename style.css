@@ -24,7 +24,9 @@ aside{
     margin-right: 5%;
     height: 300px;
 }
-
+#titulo{
+    text-align: center;
+}
 .container {
     display: inline-block;
     cursor: pointer;
