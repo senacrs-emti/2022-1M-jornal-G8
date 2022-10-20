@@ -10,12 +10,17 @@
 <body>
 
     <header>
-        <ol>
-            <li><a href="./index.php"></a></li>
-            <li><a href="./noticia.php"></a></li>
-            <li><a href="./editoria.php"></a></li>
-            <li><a href="contato.php"></a></li>
-        </ol>
+        <h1>Atualiza aí</h1>
+        <i class="fa-thin fa-comment"></i>
+        
+    <div class="container">
+      <div class="btn">
+        <div class="btn-left"></div>
+        <div class="btn-right"></div>
+      </div>
+    </div>
+ <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
     </header>
 </body>
 </html>
