@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -11,14 +11,33 @@
     
 </head>
 <body>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <a href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css"></a>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
+<link rel="stylesheet" href="./style.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
+  </head>
+  <body class="container-fluid">
+  <section class="top-nav">
+    <div>
+    <i class="fa-regular fa-comments"></i>
+    </div>
+  </section>
+  <div class="hamburger-menu">
+    <input id="menu__toggle" type="checkbox" />
+    <label class="menu__btn" for="menu__toggle">
+      <span></span>
+    </label>
 
-    <header>
-        <ol>
-            <li><a href="./index.php"></a></li>
-            <li><a href="./noticia.php"></a></li>
-            <li><a href="./editoria.php"></a></li>
-            <li><a href="contato.php"></a></li>
-        </ol>
-    </header>
-</body>
-</html>
+    <ul class="menu__box">
+      <li><a class="menu__item" href="#">CRÔNICAS</a></li>
+      <li><a class="menu__item" href="#">NOTÍCIAS</a></li>
+      <li><a class="menu__item" href="#">ENTREVISTA</a></li>
+      <li><a class="menu__item" href="#">CHARGE</a></li>
+      <li><a class="menu__item" href="#">ARTIGOS</a></li>
+    </ul>
+    
+  </div>
+  
+  </body>
