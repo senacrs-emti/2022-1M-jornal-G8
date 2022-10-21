@@ -16,8 +16,8 @@ footer{
   height: auto;
 }
 
-#nana{
-  margin-left: 70px;
+.nana{
+ text-align: center;
 }
 
 header {
@@ -48,8 +48,8 @@ header {
 }
 .menu__btn {
   position: fixed;
-  top: 20px;
-  left: 20px;
+  top: 60px;
+  left: 50px;
   width: 26px;
   height: 26px;
   cursor: pointer;

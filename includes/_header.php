@@ -9,7 +9,7 @@
   <body class="container-fluid">
   <header>
     <div class="row">
-      <div class="col-1">
+      <div class="col-2">
       <div class="hamburger-menu">
     <input id="menu__toggle" type="checkbox" />
     <label class="menu__btn" for="menu__toggle">
@@ -32,7 +32,7 @@
 <div class="col-8">
     <h1 class="nana">ATUALIZA AI</h1>
     </div>
-    <div class="col-3">
+    <div class="col-2">
     <i class="fa-regular fa-comments"></i>
     </div>
   </header>
