@@ -1,5 +1,6 @@
+
 header{
- background-color: aqua;
+
  height: auto;
 }
 
@@ -23,4 +24,9 @@ aside p{
 footer{
   background-color: green;
   height: auto;
+}
+
+.titulo{
+  text-align: center;
+  color: white;
 }
