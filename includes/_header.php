@@ -11,7 +11,8 @@
   </head>
   <body class="container-fluid">
     <header class="row">
-      <h1 class"titulo"></h1>
+    <i class="fa-thin fa-comments"></i>
+      <h1 class"titulo">ATUALIZA AI</h1>
         <ol>
             <li><a href="./index.php"></a></li>
             <li><a href="./noticia.php"></a></li>
