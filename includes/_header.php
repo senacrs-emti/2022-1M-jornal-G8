@@ -14,7 +14,7 @@
      <i class="fa-regular fa-comments"></i>
       <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-expanded="false">
-      
+    MENU
         </a>
         <ul class="dropdown-menu">
           <li><a class="dropdown-item" href="#">notícias</a></li>
