@@ -16,7 +16,7 @@
             <li><a href="./index.php"></a></li>
             <li><a href="./noticia.php"></a></li>
             <li><a href="./editoria.php"></a></li>
-            <li><a href="contato.php"></a></li>
+            <li><a href="./contato.php"></a></li>
         </ol>
     </header>
     <div class="row">

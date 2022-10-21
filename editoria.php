@@ -1,33 +1,12 @@
 <?php
 include_once './includes/_header.php';
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
-?>
+?>  
+<main class="col-lg-8 col-12">
+    <h1 class="h1editoria">RECENTES</h1>
+    <img class="recentes" src="./img/capivarinha.jpeg" alt="">
+    <p class="p1">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id quasi ab asperiores ad exercitationem est aperiam illum, voluptatum saepe magnam odit quod nisi vel maxime! Tempore quia nobis nisi voluptates! Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus explicabo itaque sunt ullam pariatur porro aperiam voluptas at, ex, nesciunt, adipisci quasi maiores harum animi dolores ducimus incidunt beatae eos!</p>
+</main>
 
-    <main>
-    <div class="container">
-  <div class="row">
-    <div class="col">
-      <h1>noticia1</h1>
-    </div>
-    <div class="col">
-      2 of 2
-    </div>
-  </div>
-  <div class="row">
-    <div class="col">
-      1 of 3
-    </div>
-    <div class="col">
-      2 of 3
-    </div>
-    <div class="col">
-      3 of 3
-    </div>
-  </div>
-</div>
-        <h1>Index</h1>
-    </main>
-    
 <?php
 include_once './includes/_aside.php';
 include_once './includes/_footer.php';
