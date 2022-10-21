@@ -8,23 +8,25 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
   </head>
   <body class="container-fluid">
-    
-      <nav class="navbar navbar-light" style="background-color: #B757F2 ;">
-     <h1 class"titulo">ATUALIZA AI</h1>
-     <i class="fa-regular fa-comments"></i>
-      <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-expanded="false">
-    MENU
-        </a>
-        <ul class="dropdown-menu">
-          <li><a class="dropdown-item" href="#">notícias</a></li>
-          <li><hr class="dropdown-divider"></li>
-          <li><a class="dropdown-item" href="#">artigos</a></li>
-          <li><hr class="dropdown-divider"></li>
-          <li><a class="dropdown-item" href="#">entrevistas</a></li>
-        </ul>
-      </li>
-    
+  <section class="top-nav">
+    <div>
+    <i class="fa-regular fa-comments"></i>
+    </div>
+  </section>
+  <div class="hamburger-menu">
+    <input id="menu__toggle" type="checkbox" />
+    <label class="menu__btn" for="menu__toggle">
+      <span></span>
+    </label>
 
-</nav>
-
+    <ul class="menu__box">
+      <li><a class="menu__item" href="#">Home</a></li>
+      <li><a class="menu__item" href="#">About</a></li>
+      <li><a class="menu__item" href="#">Team</a></li>
+      <li><a class="menu__item" href="#">Contact</a></li>
+      <li><a class="menu__item" href="#">Twitter</a></li>
+    </ul>
+    
+  </div>
+  
+  </body>
