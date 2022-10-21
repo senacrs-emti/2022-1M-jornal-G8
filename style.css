@@ -27,11 +27,12 @@ footer{
   height: auto;
 }
 
-
+#nana{
+  margin-left: 70px;
+}
 .top-nav {
   display: flex;
   flex-direction: row;
- 
   justify-content: space-between;
   background: linear-gradient(to left, #993deab8, #560070cf);
   color: #FFF;
