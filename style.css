@@ -20,7 +20,7 @@ footer{
   margin-left: 70px;
 }
 
-.top-nav {
+header {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
