@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
   </head>
   <body class="container-fluid">
+
     <header class="row">
         <ol>
             <li><a href="./index.php"></a></li>
@@ -33,3 +34,25 @@
       </li>
     
 </nav>
+  <section class="top-nav">
+    <div>
+    <i class="fa-regular fa-comments"></i>
+    </div>
+  </section>
+  <div class="hamburger-menu">
+    <input id="menu__toggle" type="checkbox" />
+    <label class="menu__btn" for="menu__toggle">
+      <span></span>
+    </label>
+
+    <ul class="menu__box">
+      <li><a class="menu__item" href="#">CRÔNICAS</a></li>
+      <li><a class="menu__item" href="#">NOTÍCIAS</a></li>
+      <li><a class="menu__item" href="#">ENTREVISTA</a></li>
+      <li><a class="menu__item" href="#">CHARGE</a></li>
+      <li><a class="menu__item" href="#">ARTIGOS</a></li>
+    </ul>
+    
+  </div>
+  
+  </body>
