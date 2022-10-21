@@ -1,5 +1,5 @@
 header{
- background-color: aqua;
+
  height: auto;
 }
 
@@ -15,9 +15,4 @@ aside{
 footer{
   background-color: green;
   height: auto;
-}
-
-header, i{
-  color: black;
-  size: 30px;
 }
