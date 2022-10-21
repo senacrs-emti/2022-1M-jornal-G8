@@ -9,13 +9,8 @@
   <body class="container-fluid">
   <header>
     <div class="row">
-
-    <h1 class="nana">ATUALIZA AI</h1>
-    <div>
-    <i class="fa-regular fa-comments"></i>
-    </div>
-  </header>
-  <div class="hamburger-menu">
+      <div class="col-1">
+      <div class="hamburger-menu">
     <input id="menu__toggle" type="checkbox" />
     <label class="menu__btn" for="menu__toggle">
       <span></span>
@@ -30,5 +25,17 @@
     </ul>
     
   </div>
+      </div>
+
+
+
+<div class="col-8">
+    <h1 class="nana">ATUALIZA AI</h1>
+    </div>
+    <div class="col-3">
+    <i class="fa-regular fa-comments"></i>
+    </div>
+  </header>
+  
   
   </body>
