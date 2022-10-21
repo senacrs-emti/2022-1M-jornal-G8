@@ -5,8 +5,6 @@
     <a href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css"></a>
     <a href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css"></a>
     <a href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css"></a>
-    <a href="
-https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css"></a>
     <link rel="stylesheet" href="./style.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
   </head>
@@ -27,12 +25,8 @@ https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css"></a>
       <li><a class="menu__item" href="#">CHARGE</a></li>
       <li><a class="menu__item" href="#">ARTIGOS</a></li>
     </ul>
-    
   </div>
       </div>
-
-
-
 <div class="col-8">
     <h1 class="nana">ATUALIZA AI</h1>
     </div>
@@ -40,6 +34,4 @@ https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css"></a>
     <i class="fa-regular fa-comments"></i>
     </div>
   </header>
-  
-  
   </body>
