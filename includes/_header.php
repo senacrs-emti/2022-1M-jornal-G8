@@ -20,8 +20,8 @@
     </label>
 
     <ul class="menu__box">
-      <li><a class="menu__item" href="#">CRONICAS</a></li>
-      <li><a class="menu__item" href="#">NOTICIAS</a></li>
+      <li><a class="menu__item" href="#">CRÔNICAS</a></li>
+      <li><a class="menu__item" href="#">NOTÍCIAS</a></li>
       <li><a class="menu__item" href="#">ENTREVISTA</a></li>
       <li><a class="menu__item" href="#">CHARGE</a></li>
       <li><a class="menu__item" href="#">ARTIGOS</a></li>
