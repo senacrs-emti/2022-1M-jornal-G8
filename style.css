@@ -17,14 +17,6 @@ footer{
   margin-top: 30px;
   padding-top: 40px;
 }
-
-i {
-  margin-top: 10px;
-}
-
-
-
-
 header {
   display: flex;
   flex-direction: row;
