@@ -13,6 +13,24 @@
 <body>
 
     <header>
+    
+    <div class="row">
+      <div class="col-2">
+      <div class="hamburger-menu">
+    <input id="menu__toggle" type="checkbox" />
+    <label class="menu__btn" for="menu__toggle">
+      
+    </label>
+
+    <ul class="menu__box">
+      <li><a class="menu__item" href="#">CRÔNICAS</a></li>
+      <li><a class="menu__item" href="#">NOTÍCIAS</a></li>
+      <li><a class="menu__item" href="#">ENTREVISTA</a></li>
+      <li><a class="menu__item" href="#">CHARGE</a></li>
+      <li><a class="menu__item" href="#">ARTIGOS</a></li>
+    </ul>
+  </div>
+      </div>
     <div class="container-fluid">
     <div class="row">
     <div class="col-11">
