@@ -1,6 +1,6 @@
 <?php
 // include de header
-include_once ' ./includes/_header.php';
+include_once './includes/_header.php';
 // parte do conteúdo de página
 ?>
 <main>
