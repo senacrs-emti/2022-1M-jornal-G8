@@ -16,7 +16,15 @@ footer{
   height: auto;
 }
 
+i {
+font-size: 40px;
+margin-top: 10px;
 
+
+
+
+
+}
 header {
   display: flex;
   flex-direction: row;
@@ -24,6 +32,7 @@ header {
   background: linear-gradient(to left, #993deab8, #560070cf);
   color: #FFF;
   height: 90px;
+  text-align: center;
   padding: 1em;
 }
 #menu__toggle {
