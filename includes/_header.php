@@ -39,7 +39,7 @@
   </div>
       </div>
 <div class="col-8">
-    <h1 class="nana">ATUALIZA AI</h1>
+    <h1 class="nana">ATUALIZA AÍ</h1>
     </div>
     <div class="col-2">
     <i class="fa-regular fa-comments"></i>
