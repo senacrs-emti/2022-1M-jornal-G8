@@ -33,7 +33,6 @@
     <div class="row">
     <div class="col-11">
     <h1>Atualiza aí</h1>
-
     <div class="container">
       <div class="btn">
         <div class="btn-left"></div>
