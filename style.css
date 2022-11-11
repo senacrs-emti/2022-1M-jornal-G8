@@ -12,8 +12,9 @@ aside p{
   margin-left: 15px;
 }
 footer{
-  background-color: green;
   height: auto;
+  margin-top: 30px;
+  padding-top: 40px;
 }
 
 i {
@@ -108,8 +109,9 @@ header {
 
 main{ 
   background-color: #F5F5F5;
-  height: 700px;
+  height: 400px;
   margin-top: 50px;
+  float: left;
 }
 
 .h1editoria{
@@ -145,4 +147,8 @@ aside p{
 footer{
   background-color: green;
   height: auto;
+}
+aside{
+  float: right;
+  margin-top: 50px;
 }
