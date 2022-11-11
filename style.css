@@ -135,7 +135,6 @@ aside{
 aside p{
   margin-left: 15px;
 }
-footer{
-  background-color: green;
-  height: auto;
+.mb-4{
+  padding-top: 40px;
 }
