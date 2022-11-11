@@ -22,7 +22,7 @@
       <div class="hamburger-menu">
     <input id="menu__toggle" type="checkbox" />
     <label class="menu_btn" for="menu_toggle">
-      
+      <span></span>
     </label>
 
     <ul class="menu__box">
@@ -33,6 +33,7 @@
       <li><a class="menu__item" href="#">ARTIGOS</a></li>
     </ul>
   </div>
+  
       </div>
 <div class="col-8">
     <h1 class="nana">ATUALIZA AÍ</h1>
