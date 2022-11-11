@@ -11,4 +11,4 @@ include_once ' ./includes/_header.php';
 include_once './includes/_aside.php';
 
 // include do footer
-include_once './includes/_footer.php'
+include_once './includes/_footer.php';
