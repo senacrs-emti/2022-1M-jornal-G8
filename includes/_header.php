@@ -25,7 +25,7 @@
       <div class="col-2">
       <div class="hamburger-menu">
     <input id="menu__toggle" type="checkbox" />
-    <label class="menu__btn" for="menu__toggle">
+    <label class="menu_btn" for="menu_toggle">
       
     </label>
 
