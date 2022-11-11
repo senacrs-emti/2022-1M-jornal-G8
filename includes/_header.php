@@ -18,10 +18,7 @@
       <div class="col-2">
       <div class="hamburger-menu">
     <input id="menu__toggle" type="checkbox" />
-    <label class="menu__btn" for="menu__toggle">
-      
-    </label>
-
+    <label class="menu__btn" for="menu__toggle"></label>
     <ul class="menu__box">
       <li><a class="menu__item" href="#">CRÔNICAS</a></li>
       <li><a class="menu__item" href="#">NOTÍCIAS</a></li>
@@ -35,7 +32,6 @@
     <div class="row">
     <div class="col-11">
     <h1>Atualiza aí</h1>
-
     <div class="container">
       <div class="btn">
         <div class="btn-left"></div>
@@ -46,9 +42,6 @@
  </div>
     </div>
   </div>
-        
-      
-
     </header>
 </body>
 </html>
