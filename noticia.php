@@ -3,16 +3,16 @@ include_once './includes/_header.php';
 ?>
 <link rel="stylesheet" href="style.css">
 <main id="pgNoticia">
-    <h1 class="title">capivaras assasinas matam aniversariante no seu aniversario de 16 anos</h1>
-    <H3 class="subtitle">SUBTITULO DA NOTICIA</H3>
-    <h6 class="h6">autor</h6>
-    <h6 class="h62">data</h6>
+    <h1 class="title">A Ilha de Lixo no Pacífico</h1>
+    <H3 class="subtitle">Deveríamos limpar a ilha de lixo no pacífico?</H3>
+    <h6 class="h6">Por Giovanna Pandolfo</h6>
+    <h6 class="h62">09/11/2022 09:24</h6>
     <hr>
-    <img src="includes/img/CAPIVARA.jpg" alt="" class="img1">
-    <p class="conteudo">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-    <p class="conteudo">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta corrupti in repellendus dolorem rem ipsa vero doloremque quidem! Nihil iusto commodi sint eos molestias atque quibusdam quidem cupiditate excepturi quae. Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe laborum, libero minima accusamus quasi laboriosam, accusantium suscipit laudantium voluptatum explicabo maxime tempora temporibus quaerat magni quis recusandae veritatis minus quod. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Temporibus animi quo accusantium voluptatem repudiandae possimus in, dolore architecto maiores ducimus iusto atque illum similique commodi culpa porro minima! Maxime, dignissimos.</p>
-    <img src="includes/img/CAPIVARA.jpg" alt="" class="img1">
-    <p class="conteudo">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repellat maxime obcaecati et sapiente! Similique eligendi magnam porro, dolorem perspiciatis accusamus voluptate consequuntur nihil illo, ducimus consequatur sed recusandae esse iste? lorem</p>
+    <p class="conteudo">Alguns ecologistas e biólogos dizem e pensam que em meio a todo o lixo, também vivem seres vivos como dragões -marinhos azuis, veleiros, caravelas-portuguesas, porpitas, hidrozoários, caracóis roxos entre outros animais, os mesmos são conhecidos como nêuston.</p>
+    <img src="includes/img/plastico.jpg" alt="" class="img1">
+    <p class="conteudo">Nadadores observam, que todo o lixo e plástico, estava envolvido com vidas ao seu redor, como uma sopa de garrafas de plástico, redes de pesca, pneus e escovas de dentes, e na superfície flutuavam todos os animais citados acima no texto, principalmente dragões-marinhos azuis, e uma comunidade de nêustons dentro de todo esse lixo, chegando a haver mais destes animais do que plásticos.</p>
+    <img src="includes/img/ilhalixo.webp" alt="" class="img2">
+    <p class="conteudo">A grande mancha de lixo do Pacífico, que se encontra entre o Havaí e a Califórnia, contém pelo menos 79 toneladas de plástico, segundo a Ocean Cleanup Foundation. Mas essa mancha também se tornou um ponto de encontro para diversos organismos marinhos, colocando na balança limpar o oceano pacífico pode proteger e salvar vidas de mamíferos e aves marinhas, porém terá um grande número de mortes destes outros animais que acabaram se apropriando e morando nesse lixo que precisa ser retirado.A grande mancha de lixo do Pacífico, que se encontra entre o Havaí e a Califórnia, contém pelo menos 79 toneladas de plástico, segundo a Ocean Cleanup Foundation. Mas essa mancha também se tornou um ponto de encontro para diversos organismos marinhos, colocando na balança limpar o oceano pacífico pode proteger e salvar vidas de mamíferos e aves marinhas, porém terá um grande número de mortes destes outros animais que acabaram se apropriando e morando nesse lixo que precisa ser retirado.A grande mancha de lixo do Pacífico, que se encontra entre o Havaí e a Califórnia, contém pelo menos 79 toneladas de plástico, segundo a Ocean Cleanup Foundation. Mas essa mancha também se tornou um ponto de encontro para diversos organismos marinhos, colocando na balança limpar o oceano pacífico pode proteger e salvar vidas de mamíferos e aves marinhas, porém terá um grande número de mortes destes outros animais que acabaram se apropriando e morando nesse lixo que precisa ser retirado.</p>
     
 </main>
 
