@@ -23,14 +23,23 @@ header a:hover{
 /* MAIN */
 main{ 
   background-color: #F5F5F5;
-  height: 400px;
+  height: auto;
   margin-top: 50px;
 }
 /*ASIDE*/
 aside{
   background-color: #D9D9D9;
   height: auto;
+  margin-top: 50px;
 }
 aside img{
   width: 100%;
+}
+
+/* FOOTER */
+.text-center {
+  width: 1190px;
+  margin-left: 40px;
+  margin-top: 30px;
+ 
 }
