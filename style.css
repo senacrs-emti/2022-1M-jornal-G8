@@ -19,6 +19,10 @@ header a:hover{
   color: white;
   text-decoration: none;
 }
+/*Recentes */
+.imagem{
+  height: 300px;
+}
 
 /* MAIN */
 main{ 
@@ -171,6 +175,10 @@ aside{
   margin-top: 50px;
 }
 aside img{
+  width: 100%;
+}
+.as{ 
+  background-color: #ff0000;
   width: 100%;
 }
 
