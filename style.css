@@ -35,6 +35,10 @@ aside{
 aside img{
   width: 100%;
 }
+.as{ 
+  background-color: #ff0000;
+  width: 100%;
+}
 
 /* FOOTER */
 .text-center {
