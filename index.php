@@ -5,7 +5,8 @@ include_once './includes/_header.php';
 ?>
 <main class="col-lg-8 col-12">
     <div class="">
-        <h1>Index</h1>
+        <h1>Recentes</h1>
+        <p></p>
     </div>
 </main>
 
