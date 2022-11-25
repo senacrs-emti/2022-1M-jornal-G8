@@ -34,6 +34,18 @@ header {
   text-align: center;
   padding: 1em;
 }
+
+header .nana{
+  text-align: center;
+}
+header .fa-comments{
+  font-size: 55px;
+}
+header a,
+header a:hover{
+  color: white;
+  text-decoration: none;
+}
 #menu__toggle {
   opacity: 0;
 }
