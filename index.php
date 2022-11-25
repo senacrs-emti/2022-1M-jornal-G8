@@ -29,6 +29,26 @@ include_once './includes/_header.php';
             </div>
         </div>
         <hr>
+        <div class="row">
+            <div class="col-lg-6"> 
+                <img class="imagem" src="img/capivarinha.jpeg" alt="">
+            </div>
+            <div class="col-lg-6">
+                <h2>Título</h2>
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ducimus suscipit eius dolor quia cum </p>
+            </div>
+        </div>
+        <hr>
+        <div class="row">
+            <div class="col-lg-6"> 
+                <img class="imagem" src="img/capivarinha.jpeg" alt="">
+            </div>
+            <div class="col-lg-6">
+                <h2>Título</h2>
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ducimus suscipit eius dolor quia cum </p>
+            </div>
+        </div>
+        <hr>
 
 </main>
 
