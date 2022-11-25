@@ -7,12 +7,24 @@ include_once './includes/_header.php';
     <div class="">
         <h1>Recentes</h1>
         <hr>
-        <div class="col-lg-4"> <img class="imagem" src="img/capivarinha.jpeg" alt="">
-        </div>
-        <div class="col-lg-8">
+        <div class="col-lg-7"> <img class="imagem" src="img/capivarinha.jpeg" alt="">
         <h2>Título</h2>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ducimus suscipit eius dolor quia cum </p>
         </div>
+        <div class="col-lg-5">
+       
+        </div>
+        
+    </div>
+    <div class="">
+        <hr>
+        <div class="col-lg-6"> <img class="imagem" src="img/capivarinha.jpeg" alt="">
+        </div>
+        <div class="col-lg-6">
+        <h2>Título</h2>
+            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ducimus suscipit eius dolor quia cum </p>
+        </div>
+        <hr>
         
     </div>
 </main>
