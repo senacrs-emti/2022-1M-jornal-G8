@@ -5,7 +5,7 @@ include_once './includes/_header.php';
 ?>
 <main class="col-lg-8 col-12">
     <div class="">
-        <h1>NOTÍCIAS</h1>
+        <h1>ENTREVISTAS</h1>
         <hr>
         <div class="row">
             <div class="col-lg-6"> 
@@ -24,7 +24,7 @@ include_once './includes/_header.php';
                 <img class="imagem" src="img/musica.jpeg" alt="">
             </div>
             <div class="col-lg-6">
-                <a href=""><h2>Festivais de música no Brasil</h2></a>
+                <h2>Festivais de música no Brasil</h2>
                 <p>Tudo o que voce precisa saber sobre os shows e artistas no brasil em 2022</p>
             </div>
         </div>
@@ -34,7 +34,7 @@ include_once './includes/_header.php';
                 <img class="imagem" src="img/core.jpeg" alt="">
             </div>
             <div class="col-lg-6">
-               <a href=""> <h2>Barbie Core, o que é essa tendência e o que ela representa</h2></a>
+                <h2>Barbie Core, o que é essa tendência e o que ela representa</h2>
                 <p>Descubra um pouco mais sobre essa moda que está viralizando na internet </p>
             </div>
         </div>
@@ -44,7 +44,7 @@ include_once './includes/_header.php';
                 <img class="imagem" src="img/download.jpeg" alt="">
             </div>
             <div class="col-lg-6">
-               <a href=""> <h2>Injustiça ou arte?</h2></a>
+                <h2>Injustiça ou arte?</h2>
                 <p>Arte feita com inteligencia artificial ganha competição de artes </p>
             </div>
         </div>

@@ -26,8 +26,8 @@
           <div class="menu-items">
             <li><a href="artigos.php">ARTIGOS</a></li>
             <li><a href="noticias.php">NOTÍCIAS</a></li>
-            <li><a href="entrevistaanna.php">ENTREVISTAS</a></li>
-            <li><a href="cronica.php">CRONICA</a></li>
+            <li><a href="entrevistas.php">ENTREVISTAS</a></li>
+            <li><a href="cronicas.php">CRONICA</a></li>
            
           </div>
         </div>
