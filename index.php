@@ -9,11 +9,11 @@ include_once './includes/_header.php';
         <hr>
         <div class="row">
             <div class="col-lg-6"> 
-                <img class="imagem" src="img/capivarinha.jpeg" alt="">
+                <img class="imagem" src="img/lixo.jpeg.jpeg" alt="">
             </div>
             <div class="col-lg-6">
-                <h2>Título</h2>
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ducimus suscipit eius dolor quia cum </p>
+                <h2>Ilha de lixo no Pacífico</h2>
+                <p>Pesquisadores estão em busca do que é mais benéfico no cenario atual que vivemos com nossos oceanos. Deveríamos limpar o lixo do pacífico? </p>
             </div>
             
         </div>
@@ -21,31 +21,31 @@ include_once './includes/_header.php';
         <hr>
         <div class="row">
             <div class="col-lg-6"> 
-                <img class="imagem" src="img/capivarinha.jpeg" alt="">
+                <img class="imagem" src="img/musica.jpeg" alt="">
             </div>
             <div class="col-lg-6">
-                <h2>Título</h2>
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ducimus suscipit eius dolor quia cum </p>
+                <h2>Festivais de música no Brasil</h2>
+                <p>Tudo o que voce precisa saber sobre os shows e artistas no brasil em 2022</p>
             </div>
         </div>
         <hr>
         <div class="row">
             <div class="col-lg-6"> 
-                <img class="imagem" src="img/capivarinha.jpeg" alt="">
+                <img class="imagem" src="img/core.jpeg" alt="">
             </div>
             <div class="col-lg-6">
-                <h2>Título</h2>
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ducimus suscipit eius dolor quia cum </p>
+                <h2>Barbie Core, o que é essa tendência e o que ela representa</h2>
+                <p>Descubra um pouco mais sobre essa moda que está viralizando na internet </p>
             </div>
         </div>
         <hr>
         <div class="row">
             <div class="col-lg-6"> 
-                <img class="imagem" src="img/capivarinha.jpeg" alt="">
+                <img class="imagem" src="img/download.jpeg" alt="">
             </div>
             <div class="col-lg-6">
-                <h2>Título</h2>
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ducimus suscipit eius dolor quia cum </p>
+                <h2>Injustiça ou arte?</h2>
+                <p>Arte feita com inteligencia artificial ganha competição de artes </p>
             </div>
         </div>
         <hr>

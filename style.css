@@ -22,6 +22,7 @@ header a:hover{
 /*Recentes */
 .imagem{
   height: 270px;
+  width: 360px;
 }
 
 /* MAIN */
@@ -181,7 +182,7 @@ aside img{
   margin-left: 15px;
 }
 .asideparagrafo{
-  font-size: 14px;
+  font-size: 18px;
   margin-top: 10px;
 }
 

@@ -2,14 +2,14 @@
     <div clas="as">
     <h1 class="mais lidos"> MAIS LIDOS</h1>
     <hr>
-    <img class="imagem" src="img/lulinha.jpeg">
-    <p class= "asideparagrafo">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</p>
+    <img class="imagem" src="img/sus.jpeg">
+    <p class= "asideparagrafo">Artigo sobre o Sistema Único de Saúde.</p>
     <hr>
-    <img class="imagem" src="img/barbie.jfif">
-    <p class="asideparagrafo">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</p>
+    <img class="imagem" src="img/redes.jpeg">
+    <p class="asideparagrafo"> Cronica sobre as redes sociais e produtos</p>
     <hr>
-    <img class="imagem" src="img/lulinha.jpeg">
-    <p class= "asideparagrafo">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</p>
+    <img class="imagem" src="img/sharlene.jpeg">
+    <p class= "asideparagrafo">Entrevista com a pedagoga Sharlene Goulart Rodrigues.</p>
     <hr>
 </div>
 </aside>
