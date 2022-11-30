@@ -3,7 +3,7 @@ include_once './includes/_header.php';
 ?>
 <link rel="stylesheet" href="style.css">
 <main id="pgNoticia">
-    <h1 class="title">Entrevista - Michele Loreto Alves</h1>
+    <h1 class="title">Entrevista - Michele Loreto </h1>
     <H3 class="subtitle">Desafios do empreendedorismo feminino</H3>
     <h6 class="h6">Por Anna Lia</h6>
     <h6 class="h62">30/11/2022 09:35</h6>
