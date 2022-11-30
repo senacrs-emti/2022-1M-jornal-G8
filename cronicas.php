@@ -12,8 +12,8 @@ include_once './includes/_header.php';
                 <img class="imagem" src="img/lixo.jpeg.jpeg" alt="">
             </div>
             <div class="col-lg-6">
-               <a href="noticiapacifico.php"> <h2>Ilha de lixo no Pacífico</h2></a>
-                <p>Pesquisadores estão em busca do que é mais benéfico no cenario atual que vivemos com nossos oceanos. Deveríamos limpar o lixo do pacífico? </p>
+               <a href="noticiapacifico.php"> <h2>Redes Sociais e Produtos</h2></a>
+                <p>Crítica de como a convivência das pessoas vem mudando de acordo com as redes sociais </p>
             </div>
             
         </div>
