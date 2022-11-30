@@ -16,12 +16,8 @@ No ano de 2020, surgia a pandemia do vírus COVID-19. Por meio do SUS o brasilei
     <p class="conteudo">O SUS está aí, não só prevenindo e curando doenças, mas também disponibilizando remédios a quem não tem condições de comprar.
 Assim concluo que é de suma importância a preservação do SUS, como único meio de dar a garantia de vida e de saúde a todos brasileiros, principalmente aos mais humildes e necessitados.
 </p>
-    
 </main>
-
 <?php
-
-include_once './includes/_header.php';
 include_once './includes/_footer.php';
 ?>
 
