@@ -5,7 +5,7 @@ include_once './includes/_header.php';
 ?>
 <main class="col-lg-8 col-12">
     <div class="">
-        <h1>RECENTES</h1>
+        <h1>NOTÍCIAS</h1>
         <hr>
         <div class="row">
             <div class="col-lg-6"> 
@@ -53,8 +53,7 @@ include_once './includes/_header.php';
 </main>
 
 <?php
-//include do aside
-include_once './includes/_aside.php';
+
 include_once './includes/_footer.php';
 
 ?>
