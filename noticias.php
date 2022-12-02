@@ -24,7 +24,7 @@ include_once './includes/_header.php';
                 <img class="imagem" src="img/musica.jpeg" alt="">
             </div>
             <div class="col-lg-6">
-                <a href=""><h2>Festivais de música no Brasil</h2></a>
+                <a href="noticianath.php"><h2>Festivais de música no Brasil</h2></a>
                 <p>Tudo o que voce precisa saber sobre os shows e artistas no brasil em 2022</p>
             </div>
         </div>
@@ -34,7 +34,7 @@ include_once './includes/_header.php';
                 <img class="imagem" src="img/core.jpeg" alt="">
             </div>
             <div class="col-lg-6">
-               <a href=""> <h2>Barbie Core, o que é essa tendência e o que ela representa</h2></a>
+               <a href="noticiagin.php"> <h2>Barbie Core, o que é essa tendência e o que ela representa</h2></a>
                 <p>Descubra um pouco mais sobre essa moda que está viralizando na internet </p>
             </div>
         </div>
