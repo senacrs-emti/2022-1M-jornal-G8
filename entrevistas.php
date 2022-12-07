@@ -9,7 +9,7 @@ include_once './includes/_header.php';
         <hr>
         <div class="row">
             <div class="col-lg-6"> 
-                <img class="imagem" src="img/lixo.jpeg.jpeg" alt="">
+       
             </div>
             <div class="col-lg-6">
                <a href="entrevistaanna.php"> <h2>ENTREVISTA COM EMPREEENDEDORA</h2></a>
@@ -20,7 +20,7 @@ include_once './includes/_header.php';
         <hr>
         <div class="row">
             <div class="col-lg-6"> 
-                <img class="imagem" src="img/musica.jpeg" alt="">
+        
             </div>
             <div class="col-lg-6">
                <a href=""> <h2>ENTREVISTA COM PEDAGOGA</h2></a>
