@@ -9,10 +9,12 @@ include_once './includes/_header.php';
         <hr>
         <div class="row">
             <div class="col-lg-6"> 
-       
+                <img class="imagem" src="anna.jpeg.jpeg" alt="">
             </div>
             <div class="col-lg-6">
                <a href="entrevistaanna.php"> <h2>ENTREVISTA COM EMPREEENDEDORA</h2></a>
+               
+            <p>MICHELE LORETTO</p>
             </div>
             
         </div>
@@ -20,11 +22,11 @@ include_once './includes/_header.php';
         <hr>
         <div class="row">
             <div class="col-lg-6"> 
-        
+                <img class="imagem" src="lala.png" alt="">
             </div>
             <div class="col-lg-6">
                <a href=""> <h2>ENTREVISTA COM PEDAGOGA</h2></a>
-                <p>Tudo o que voce precisa saber sobre os shows e artistas no brasil em 2022</p>
+                <p>Sharlene rodrigues</p>
             </div>
         </div>
         <hr>
